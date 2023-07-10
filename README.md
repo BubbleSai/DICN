@@ -14,7 +14,7 @@ python train.py \
   --b 4 \
   --lr 2e-4 \
   --epochs 200 \
-  --prefix 62.51
+  --prefix work_dir
 
 ## test
 python train.py \
